@@ -1,4 +1,4 @@
-# Phishing Simulation Lab (GoPhish + MailHog)
+# Phishing Simulation Lab (GoPhish and MailHog)
 
 ## Overview
 This lab demonstrates how I engineered a **controlled phishing simulation** using GoPhish and MailHog.  
