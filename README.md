@@ -5,7 +5,7 @@ This lab demonstrates how I engineered a **controlled phishing simulation** usin
 The goal: test user behaviour against phishing emails, capture interactions safely, and map results to **ISO27001 controls**.
 
 ## Objectives
-- Deploy a local phishing platform safely (GoPhish + MailHog).
+- Deploy a local phishing platform safely (GoPhish and MailHog).
 - Send and track phishing emails end-to-end.
 - Capture evidence of user clicks and credential submissions.
 - Produce compliance-ready reporting.
@@ -25,7 +25,7 @@ The goal: test user behaviour against phishing emails, capture interactions safe
 7. `6.1 Campaign dashboard.png`: Campaign success overview  
 8. `6.2 MailHog Phising email.png`: Delivered phishing emails  
 9. `7.1 Victim flow and credential submission.png`: Victim timeline showing clicks and submissions  
-10. `8 Results.png`: **Full credential capture (email + password)**  
+10. `8 Results.png`: **Full credential capture (email and password)**  
 
 ## Security Engineer Impact
 - Designed a **phishing simulation workflow** from email delivery to credential submission.  
