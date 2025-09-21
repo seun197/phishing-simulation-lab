@@ -27,7 +27,7 @@ The goal: test user behaviour against phishing emails, capture interactions safe
 9. `7.1 Victim flow and credential submission.png`: Victim timeline showing clicks and submissions  
 10. `8 Results.png`: **Full credential capture (email + password)**  
 
-## 🛡Security Engineer Impact
+## Security Engineer Impact
 - Designed a **phishing simulation workflow** from email delivery to credential submission.  
 - Proved ability to **build offensive simulations** while keeping results safe.  
 - Delivered **evidence reporting** for SOC teams and compliance audits.  
