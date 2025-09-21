@@ -31,7 +31,6 @@ The goal: test user behaviour against phishing emails, capture interactions safe
 - Designed a **phishing simulation workflow** from email delivery to credential submission.  
 - Proved ability to **build offensive simulations** while keeping results safe.  
 - Delivered **evidence reporting** for SOC teams and compliance audits.  
-- Demonstrated how phishing telemetry can be ingested into **SIEM detection pipelines**.
 
 ## ISO27001 Mapping
 - **A.7.2.2 Awareness Training**: Employees tested against phishing.  
